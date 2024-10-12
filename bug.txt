@@ -1,0 +1,4 @@
+1) text in searchbar is not clearing when i click on someother links in Navbar
+2) Infinite scroll not working properly
+3) RouterProvider basename null error
+4) prop drilling
